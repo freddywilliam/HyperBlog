@@ -6,3 +6,6 @@ Obviamente este es un ejemplo.
 Basicamente la vida esta compuesta de dos factores claves. El ser y el No ser. El ser la busca sin sentido el **amor** de **ella**, y el No ser es el hecho que vives al noe star con ella.
 
 > La vida te da limones, el mundo te da sandias. El frutero no siempre esta en la esquina.
+
+Aviso: Cherry-pick ejemplo 
+        Windows, LINUX Y MAC
